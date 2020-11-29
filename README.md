@@ -1,7 +1,5 @@
 # zebra-puzzle-prolog
-Solving a logical popular puzzle in Prolog.
-
-Your task is to write a Prolog knowledge base to solve the following logic puzzle.
+**Solving a logical popular puzzle in Prolog.**
 
 Five teams from 5 California colleges (SJSU, De Anza, Foothill, UC Berkeley and UC Santa Cruz) are
 participating in a hackathon.
